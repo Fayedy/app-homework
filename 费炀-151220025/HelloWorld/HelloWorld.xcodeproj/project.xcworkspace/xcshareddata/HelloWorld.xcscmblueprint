@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0780C527B52A0C056F5A062BB122A6950AD959B6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0780C527B52A0C056F5A062BB122A6950AD959B6" : 9223372036854775807,
+    "2F52F3F29E185CDD39AB66BC4B0726F1627533FA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4140E7D0-7B1E-4884-82A0-0351B6C39B32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0780C527B52A0C056F5A062BB122A6950AD959B6" : "%E8%B4%B9%E7%82%80-151220025\/",
+    "2F52F3F29E185CDD39AB66BC4B0726F1627533FA" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HelloWorld",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HelloWorld\/HelloWorld.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Fayedy\/app-homework",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0780C527B52A0C056F5A062BB122A6950AD959B6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Fayedy\/app-2017f-homework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F52F3F29E185CDD39AB66BC4B0726F1627533FA"
+    }
+  ]
+}
